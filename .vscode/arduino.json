@@ -1,0 +1,6 @@
+{
+    "board": "AZ3166:stm32f4:MXCHIP_AZ3166",
+    "configuration": "upload_method=OpenOCDMethod",
+    "sketch": "AnalogInOutSerial_MX.ino",
+    "output": "C:/Users/luisb/OneDrive/DocumentsOutput_arduino"
+}
